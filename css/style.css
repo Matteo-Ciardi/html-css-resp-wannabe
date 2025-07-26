@@ -135,6 +135,10 @@ img {
         width: 100%;
     }
 
+    .col-right li {
+        margin-bottom: 2rem;
+    }
+
 }
 
 /* Smartphone view */
